@@ -1,0 +1,39 @@
+
+header{
+    background-color: #f4511e;
+    font-weight: 60px;
+}
+
+section, footer{
+    margin: 50px;
+}
+
+h1{
+    font-size: 63px;
+    color: #303030;
+    padding: 15px;
+    color: white;
+    text-align: center;
+}
+
+h2{
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #303030;
+    font-weight: 600;
+}
+
+ 
+#carouselExampleCaptions img{
+    max-height: 400px;
+}
+
+.carousel-caption h5{
+    font-size: 50px ;
+    color: #ffc107;
+    text-shadow:  2px 2px 2px black;
+}
+
+.card img{
+    max-height:330px;
+}
